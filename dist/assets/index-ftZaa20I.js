@@ -15995,23 +15995,23 @@ function nS() {
       "Developer",
     ],
     t = [
-      { img: Gm, title: "GitHub", link: "https://github.com/kunj2803" },
+      { img: Gm, title: "GitHub", link: "https://github.com/kannugithub" },
       {
         img: Qm,
         title: "LinkedIn",
-        link: "https://www.linkedin.com/in/kunj-desai-07717b293/",
+        link: "https://www.linkedin.com/in/karan-singharia-11b5a715b/",
       },
-      { img: Km, title: "Email", link: "kunjd2803@gmail.com" },
-      { img: Ym, title: "WhatsApp", link: "https://wa.me/+918758209508" },
+      { img: Km, title: "Email", link: "ksingharia007@gmail.com" },
+      { img: Ym, title: "WhatsApp", link: "https://wa.me/+919876789353" },
       {
         img: Xm,
         title: "Instagram",
-        link: "https://www.instagram.com/kunj_2834/",
+        link: "https://www.instagram.com/ig_karan_singharia/",
       },
       {
         img: Zm,
         title: "Facebook",
-        link: "https://www.facebook.com/kunj.desai.222608",
+        link: "https://www.facebook.com/karan.singharia.5",
       },
     ];
   return m.jsxs("section", {
@@ -16206,9 +16206,9 @@ function nS() {
                   marginTop: "1.2rem",
                 },
                 children: [
-                  { label: "📍 Location", value: "Surat,Gujrat,India" },
-                  { label: "💼 Expertise", value: "AI/ML,Problem solving" },
-                  { label: "📧 Contact", value: "kunjd2803@gmail.com" },
+                  { label: "📍 Location", value: "Abohar, Punjab, India" },
+                  { label: "💼 Expertise", value: "Frontend Development" },
+                  { label: "📧 Contact", value: "ksingharia007@gmail.com" },
                 ].map((n, r) =>
                   m.jsxs(
                     A.div,
@@ -16488,7 +16488,7 @@ function nS() {
       ss: "/mamo.png",
       tech: ["TensorFlow", "Keras", "OpenCV", "YOLOv8"],
       live: "#",
-      code: "https://github.com/kunjdesai/mammo-detector",
+      code: "https://github.com/kannugithub",
     },
     {
       title: "🤖 Indian Sign Language Interpreter",
@@ -16496,7 +16496,7 @@ function nS() {
       ss: "/ISL.png",
       tech: ["Mediapipe", "TensorFlow", "React", "Flask"],
       live: "#",
-      code: "https://github.com/kunjdesai/ISL-Interpreter",
+      code: "https://github.com/kannugithub",
     },
     {
       title: "💬 DocuChat – Gemini AI Chatbot",
@@ -16504,7 +16504,7 @@ function nS() {
       ss: "/Docuchat.png",
       tech: ["Gemini API", "LangChain", "Python", "Streamlit"],
       live: "#",
-      code: "https://github.com/kunjdesai/DocuChat",
+      code: "https://github.com/kannugithub",
     },
     {
       title: "📊 ProfileX – Data Profiler",
@@ -16512,7 +16512,7 @@ function nS() {
       ss: "/ProfileX.png",
       tech: ["Streamlit", "Pandas", "Plotly"],
       live: "#",
-      code: "https://github.com/kunjdesai/ProfileX",
+      code: "https://github.com/kannugithub",
     },
     {
       title: "🧬 Breast Cancer Prediction",
@@ -16520,7 +16520,7 @@ function nS() {
       ss: "/projects/breastpred.jpg",
       tech: ["scikit-learn", "XGBoost", "Pandas"],
       live: "#",
-      code: "https://github.com/kunjdesai/BreastCancerPrediction",
+      code: "https://github.com/kannugithub",
     },
   ];
 function CS() {
@@ -17282,20 +17282,20 @@ function MS() {
               children: [
                 m.jsx("h3", {
                   style: { fontSize: 24, color: "#00b4ff", marginBottom: 4 },
-                  children: "👨‍💻 KUNJ D. DESAI",
+                  children: "👨‍💻 Karan Singharia",
                 }),
                 m.jsx("p", {
                   style: { margintop: 10, fontSize: 15, color: "#ccc" },
                   children:
-                    "4th Year B.Tech — AI & Data Science | S.C.E.T, Sarvajanik University",
+                    "Bachelor of Computer Application | DAV College Abohar",
                 }),
                 m.jsx("p", {
                   style: { margin: "4px 0", fontSize: 14, color: "#aaa" },
-                  children: "📍 Jahangirpura, Surat, Gujarat",
+                  children: "📍 Abohar, Punjab",
                 }),
                 m.jsx("p", {
                   style: { margin: "4px 0", fontSize: 14, color: "#aaa" },
-                  children: "✉️ kunjd2803@gmail.com | 📞 +91 8758209508",
+                  children: "✉️ ksingharia007@gmail.com | 📞 +91 9876789353",
                 }),
               ],
             }),
@@ -17495,11 +17495,11 @@ function MS() {
             marginTop: 40,
           },
           children: [
-            { name: "🏆 LeetCode", link: "https://leetcode.com/u/Kunj_2803/" },
-            { name: "💻 GitHub", link: "https://github.com/kunj2803" },
+            { name: "🏆 LeetCode", link: "https://leetcode.com/u/singharia/" },
+            { name: "💻 GitHub", link: "https://github.com/kannugithub" },
             {
               name: "💼 LinkedIn",
-              link: "https://www.linkedin.com/in/kunj-desai-07717b293/",
+              link: "https://www.linkedin.com/in/karan-singharia-11b5a715b/",
             },
           ].map((e) =>
             m.jsx(
@@ -18120,23 +18120,23 @@ function YS() {
         );
     },
     s = [
-      { img: Gm, title: "GitHub", link: "https://github.com/kunj2803" },
+      { img: Gm, title: "GitHub", link: "https://github.com/kannugithub" },
       {
         img: Qm,
         title: "LinkedIn",
-        link: "https://www.linkedin.com/in/kunj-desai-07717b293/",
+        link: "https://www.linkedin.com/in/karan-singharia-11b5a715b/",
       },
-      { img: Km, title: "Email", link: "mailto:kunjd2803@gmail.com" },
-      { img: Ym, title: "WhatsApp", link: "https://wa.me/+918758209508" },
+      { img: Km, title: "Email", link: "mailto:ksingharia007@gmail.com" },
+      { img: Ym, title: "WhatsApp", link: "https://wa.me/+919876789353" },
       {
         img: Xm,
         title: "Instagram",
-        link: "https://www.instagram.com/kunj_2834/",
+        link: "https://www.instagram.com/ig_karan_singharia/",
       },
       {
         img: Zm,
         title: "Facebook",
-        link: "https://www.facebook.com/kunj.desai.222608",
+        link: "https://www.facebook.com/karan.singharia.5",
       },
     ];
   return m.jsxs("section", {
