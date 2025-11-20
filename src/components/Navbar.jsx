@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
 const links = [
@@ -43,12 +43,20 @@ export default function Navbar() {
         >
           KS
         </motion.div>
-        <div style={{ display: "flex", flexDirection: "column" }}>
+        <Link
+          to="/"
+          style={{
+            display: "flex",
+            flexDirection: "column",
+            textDecoration: "none",
+            color: "white",
+          }}
+        >
           <h1 style={{ margin: 0, fontSize: 14 }}>Karan Singharia</h1>
           <div style={{ fontSize: 12, color: "var(--muted)" }}>
             ML • AI • Developer
           </div>
-        </div>
+        </Link>
       </div>
 
       {/* --- Center Navigation Links --- */}

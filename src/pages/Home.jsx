@@ -137,7 +137,7 @@ export default function Home() {
           >
             <motion.img
               src={profile}
-              alt="Kunj Desai"
+              alt="Karan Singharia"
               initial={{ scale: 0.8, opacity: 0 }}
               animate={{ scale: 1, opacity: 1 }}
               transition={{ duration: 1 }}
@@ -196,11 +196,10 @@ export default function Home() {
               fontSize: "1.2rem",
               color: "rgba(255,255,255,0.85)",
               marginTop: "0.4rem",
-              maxWidth: "95%",
+              maxWidth: "48%",
             }}
           >
-            Aritificial Intellegence Engineer | Frontend Developer | Tech
-            Explorer
+            Software Developer | Tech Explorer
           </p>
 
           {/* --- Profession Tags --- */}

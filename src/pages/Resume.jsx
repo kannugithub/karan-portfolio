@@ -263,7 +263,7 @@ export default function Resume() {
         >
           <iframe
             src="/resume1.pdf"
-            title="Kunj Desai Resume"
+            title="Karan Singharia Resume"
             style={{
               width: "100%",
               height: "650px",
